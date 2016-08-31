@@ -1,0 +1,31 @@
+{
+  "preset": "google",
+  "fileExtensions": [
+    ".js",
+    ".html",
+    ".json",
+    ".jsx"
+  ],
+  "maxErrors": null,
+  "requireSemicolons": true,
+  "maximumLineLength": 120,
+  "validateLineBreaks": "LF",
+  "validateIndentation": "\t",
+  "disallowTrailingComma": true,
+  "validateQuoteMarks": false,
+  "disallowMixedSpacesAndTabs": true,
+  "safeContextKeyword": "self",
+  "jsDoc": {
+    "checkParamNames": true,
+    "requireParamTypes": true,
+    "checkRedundantParams": true,
+    "checkReturnTypes": true,
+    "checkRedundantReturns": true,
+    "requireReturnTypes": true,
+    "checkTypes": "capitalizedNativeCase",
+    "checkRedundantAccess": true,
+    "requireNewlineAfterDescription": true
+  },
+  "excludeFiles": [
+  ]
+}

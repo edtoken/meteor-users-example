@@ -1,0 +1,8 @@
+body.page-init {
+    background: #eee;
+    padding: 40px;
+}
+
+body.fixed-header {
+    padding-top: 70px;
+}

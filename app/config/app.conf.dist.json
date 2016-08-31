@@ -1,0 +1,14 @@
+{
+  "env": {
+    "CDN_PATH": "//cdn.example.fom",
+    "PUBLIC_PATH": "/"
+  },
+  "client": {
+    "pageTitle": "page title main",
+    "logoText": "header logo text",
+    "defaultLocale": "en-US",
+    "timeFormat": "hh:mm:ss",
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD hh:mm:ss"
+  }
+}
